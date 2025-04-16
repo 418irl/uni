@@ -1,0 +1,59 @@
+FM
+Intermediate frequency am, fm
+Why FM has better noise 
+How many sidebands does FM have and what is Carson rule 
+What is modulation index and its formula 
+Which is used for long distance communication. Fm or AM
+What parameters does bandwidth depend on
+modulation index of FM depends on what all parameters
+Carson's Rule 
+How many sidebands does FM have
+Frequency range of FM
+Fm working + bandwidth+ modulation index parameters
+Lossless, Infinite sideband - fm
+Need for Modulation 
+Modulation index
+Am vs fm 
+
+PLL
+Explain working of PLL hardware 
+What is VCO, use in PLL
+
+BPSK QPSK
+Basic block diagrams of BPSK , Qpsk , PLL
+Signal space diagram 
+Compare BPSK and QPSK - working , give theoretical eqns, Which has higher BER, which one has more bandwidth and why
+
+PCM
+What is quantisation error
+Compare sampling, encoding and quantisation 
+Differentiate PCM and delta modulation wrt bandwidth
+Define Bit Error Rate. What is Eb/N0? What is Eb and what is N0 in that?
+If 10 bits are transmitted and 5 bits have errors, what is the BER?
+Effect of step size and noise in PCM
+Explain SAMPLING theorem, Nyquist criteria and Shanon’s theorem 
+Mid tread and mid raise 
+Slope overload vs granular error
+Explain Companding 
+
+
+
+Matched filter and eye
+How does matched filter help reduce snr
+What is snr and its equation
+If alpha varied in eye diagram what happens
+What is isi, why does it need to be reduced, how to reduce, effects of isi
+Rc vs RRC, why are they used
+Why is AWGN used?
+Stepsize and snr relation
+What happens to error is number of levels increases
+Draw the response of rc filter why is it called raised cosine
+what is roll off factor, what happens when roll off factor is varied, significance
+rectifying filters, frequency and time domain graph of rectangular and raised cosine filter
+ISI and its effects
+
+SDR
+SDR full form, how work, Specifications of SDR- frequency range
+waterfall sink, audio sink and time sink explain   Explain the procedure of SDR
+SDR radio rational resampler why
+Explain each block in SDR 
